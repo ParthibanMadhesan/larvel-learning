@@ -76,7 +76,7 @@ Route::get('/newww', function () {
 //home
 
 Route::view('/home','home');
-
+Route::view('/ho','ho');
 // Route::controller(JobController::class)->group(function(){
 // Route::get('/jobs',[JobController::class,'index']);
 
